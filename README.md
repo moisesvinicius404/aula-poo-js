@@ -1,1 +1,1 @@
-# aula-poo-js
+# Aula de programação orientada a objetos com javascript
